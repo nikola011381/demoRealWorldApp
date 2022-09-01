@@ -21,5 +21,5 @@ describe('SingUp Test suite', function() {
 
     it('5. Navigate back to Sign In page', function() {
         //TODO
-    });
-});
+    }); 
+}); 
